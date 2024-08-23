@@ -37,7 +37,7 @@ A Python application that translates spoken words into a different language and 
    python main.py
    ```
 
-2. A Tkinter window will prompt you to enter the source and destination languages (e.g., `en`, `fr`, `es`).
+2. A Tkinter window will prompt you to enter the source and destination languages (e.g., `en`, `hi`, `fr`).
 
 3. Follow the on-screen instructions:
    - Press OK and speak a phrase you want to translate.
